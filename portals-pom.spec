@@ -2,6 +2,7 @@ Name:          portals-pom
 Version:       1.4
 Release:       1
 Summary:       Apache Portals parent pom
+Group:         Development/Java
 License:       ASL 2.0
 Url:           https://portals.apache.org/
 Source0:       https://repo1.maven.org/maven2/org/apache/portals/portals-pom/%{version}/portals-pom-%{version}.pom
